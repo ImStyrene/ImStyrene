@@ -2,11 +2,12 @@
 
 # Hi, It's ImStyrene.
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)](https://rust-lang.org)
+[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=#A8B9CC)](https://www.open-std.org/jtc1/sc22/wg14/)
+[![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=#00599C)](https://isocpp.org/)
 
 </div>
 
-🦀 Rust lover
+🇨 C lover
 ❄️ Average NixOS user
 
 ---
